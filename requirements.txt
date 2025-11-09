@@ -1,0 +1,24 @@
+# Core libraries
+numpy==1.26.4
+matplotlib==3.9.2
+pandas==2.2.3
+
+# Computer Vision
+opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
+
+# Drone Simulation
+airsim==1.8.1
+
+# Web Dashboard
+streamlit==1.39.0
+
+# Web / Socket Communication (used in base repo)
+tornado==6.4.1
+
+# Utility / System
+playsound==1.3.0
+ffmpeg-python==0.2.0
+
+# Optional (for visual graphs / analysis)
+seaborn==0.13.2
